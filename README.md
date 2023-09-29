@@ -1,11 +1,11 @@
-About toml-test
-===============
+About toml-test-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/toml-test-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/BurntSushi/toml-test
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/toml-test-feedstock/blob/main/LICENSE.txt)
 
 Summary: A language agnostic test suite for TOML parsers.
 
