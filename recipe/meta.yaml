@@ -1,5 +1,5 @@
 {% set name = "toml-test" %}
-{% set version = "1.5.0" %}
+{% set version = "1.6.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/BurntSushi/toml-test/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: e6829cdcaed94ac2bfcaea05dab9d16db0bead2d3ac9936224774a67fbd46ade
+  sha256: 79ee1f9edef786e28cc54504179672071dbc7bad24d73348e8e7d7e766068abc
 
 build:
   number: 0
